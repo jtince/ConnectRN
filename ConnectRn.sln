@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectRn_Api", "ConnectRn_Api\ConnectRn_Api.csproj", "{9C6B5824-EC98-40DC-A934-14B7241EE26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTest", "UserTest\UserTest.csproj", "{FEC82C80-C1A5-45B6-96D6-500C85F4F0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6B5824-EC98-40DC-A934-14B7241EE26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6B5824-EC98-40DC-A934-14B7241EE26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6B5824-EC98-40DC-A934-14B7241EE26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6B5824-EC98-40DC-A934-14B7241EE26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC82C80-C1A5-45B6-96D6-500C85F4F0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC82C80-C1A5-45B6-96D6-500C85F4F0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC82C80-C1A5-45B6-96D6-500C85F4F0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC82C80-C1A5-45B6-96D6-500C85F4F0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45BA6FDE-5A87-4CF3-A696-27E1A3731C71}
+	EndGlobalSection
+EndGlobal

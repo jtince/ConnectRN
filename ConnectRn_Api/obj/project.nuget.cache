@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ8I5xayAYDdhHE1tlzdhuqdEhHhLnwqpKE4I5IxXnncvALp+5TNZpnG3v0bP8JVEZu3at6X9huO7rfV8BzeHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\incet\\source\\repos\\ConnectRN\\ConnectRn_Api\\ConnectRn_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\incet\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\incet\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
